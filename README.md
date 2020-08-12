@@ -3,6 +3,6 @@
 * Doing my Master's in Data Science in PSG.
 * Interested in the Field of Deep learning *less code and more breaktimes*
 * Currently Interning at Thorogood.
-* <prankster999prakash@gmail.com>
+* To know more hit up website that you see on the left :arrow_backward:
 
 
