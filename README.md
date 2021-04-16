@@ -9,7 +9,7 @@
 * Doing my Master's in Data Science in PSG.
 * Interested in the Various Frontier of Machine Learning! *less code and more breaktimes*
 * Previously Interned at Thorogood.
-* To know more hit up the website that you see on the left :arrow_backward:
+
 
 Spotify Activity :
 
