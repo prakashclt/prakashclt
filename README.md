@@ -16,7 +16,6 @@ Spotify Activity :
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pranksterprakash)
 
 ![Prakash's github stats](https://github-readme-stats.vercel.app/api?username=prakashclt)
-![Prakash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prakashclt) 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prakashclt)
 
 
