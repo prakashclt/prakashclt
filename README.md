@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 </p>
   
-* Doing my Master's in Data Science in PSG.
+* Doing my Master's in Data Science at PSG.
 * Interested in the Various Frontier of Machine Learning! *less code and more breaktimes*
 * Previously Interned at Thorogood.
 
