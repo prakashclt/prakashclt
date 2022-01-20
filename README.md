@@ -9,7 +9,7 @@
 * Doing my Master's in Data Science at PSG.
 * Interested in the Various Frontier of Machine Learning! *less code and more breaktimes*
 * Previously Interned at Thorogood.
-* Incoming Intern at KPMG. 
+* Currently Interning at KPMG Lighthouse. 
 
 
 Spotify Activity :
